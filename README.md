@@ -1,4 +1,10 @@
 # calculator
-simple calculator
+Simple calculator.
+
 ## testing
-for setting up git
+For setting up git.
+
+## Functionality
+Some of the functionality of the calculator:
++   Add
++   Subtract
